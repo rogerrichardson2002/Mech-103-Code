@@ -1,5 +1,3 @@
-# Mech-103-Code
-Contains all of my MATLAB code from Mech 103:
-*Introductory code*,
-*Arduino code*,
-*Final project code*
+# Mech-105-Code
+Contains all of my MATLAB algorthims from Mech 105
+
